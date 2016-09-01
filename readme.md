@@ -807,3 +807,4 @@
  - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
  - [phenomic](https://github.com/MoOx/phenomic) - Modern static* website generator based on the React and Webpack ecosystem.
  - [sitegen](https://github.com/andreypopp/sitegen) - Generate websites by composing React components.
+ - [react-document-meta](https://www.npmjs.com/package/react-document-meta) - Declarative, nested and stateful HTML document meta tags for React.
